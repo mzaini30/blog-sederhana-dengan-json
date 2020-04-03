@@ -1,0 +1,9 @@
+{
+	"postingan": [
+		{
+			"id": 1,
+			"judul": "Hello world",
+			"isi": "Haloooo"
+		}
+	]
+}
