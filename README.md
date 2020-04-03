@@ -26,7 +26,7 @@ Terus, jalankan:
 
 ```bash
 cd pug 
-pug . -w -o ../public
+pug . -w -o ../html
 ```
 
 ## Menjalankan
@@ -35,4 +35,4 @@ pug . -w -o ../public
 ./jalankan
 ```
 
-Terus, buka di browser: `http://localhost:2012`
+Terus, buka di browser file `html/index.html`
